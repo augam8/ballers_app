@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: MyString
+  last_name: MyString
+  bio: MyText
+  location: MyString
+  cost: 9.99
+  session: 1
+  availability: 2020-03-13
+  iss_coach: false
+
+two:
+  first_name: MyString
+  last_name: MyString
+  bio: MyText
+  location: MyString
+  cost: 9.99
+  session: 1
+  availability: 2020-03-13
+  iss_coach: false
